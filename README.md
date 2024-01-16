@@ -78,10 +78,7 @@ npm run dev
 ```
 That's it you are good to go! Looking forward to your contributions.
 
-## Contributors
-<a href="https://github.com/Deveesh-Shetty/rudraksh/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Deveesh-Shetty/rudraksh" />
-</a>
+
 
 <br />
 <br />
